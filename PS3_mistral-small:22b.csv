@@ -1,0 +1,730 @@
+yes,yes,yes,more_or_less,"yes, ""What are some key concepts or terms related to Decision Tree Models, such as 'split criterion' and 'tree depth'?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how Decision Trees process both numerical and categorical data.""",no,yes,yes,Bloom’s skill associated with the question: understand
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Detail the process of constructing a decision tree using a given dataset for crop yield prediction, emphasizing key steps like feature selection and tree pruning techniques.""",no,yes,no,remember
+yes,yes,yes,no,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Propose an innovative decision tree-based solution for India's waste management system by integrating real-time data on waste generation, types, and collection points. Outline the key components of your proposed model and explain how it might enhance the current waste management practices.""",no,yes,yes,Create
+yes,yes,no,more_or_less,NA,no,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""Can you describe the fundamental concepts that data scientists use to construct decision tree models?""",no,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""How can decision tree models be applied to analyze student performance data across various Indian colleges?""",no,yes,no,Apply
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Assess the advantages and disadvantages of employing Decision Trees to forecast agricultural yields using climatic data in rural settings.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Evaluate the strengths and limitations of Decision Tree Models in the context of Indian data, such as the impact of class imbalance and feature correlation on model accuracy.""",no,yes,yes,create
+yes,no,yes,more_or_less,yes,no,yes,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you describe how pruning works in decision trees and explain its importance?""",no,yes,yes,Bloom’s skill associated with the question
+yes,yes,yes,more_or_less,"yes, ""How can you utilize a Decision Tree Model to analyze customer churn data for a telecom company in India?""",no,yes,yes,Bloom’s skill associated with the question: apply
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,no,yes,no,yes,no,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how entropy and information gain are used in decision tree algorithms.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how a decision tree handles both categorical and continuous variables during its construction.""",no,yes,yes,remember
+yes,yes,yes,no,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Describe the fundamental concepts involved in building a decision tree model.""",yes,yes,yes,Bloom’s skill associated with the question: understand
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: apply
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,"yes, ""Assess the effectiveness of Decision Tree Models compared to other machine learning models by evaluating their interpretability and scalability when applied to Indian datasets.""",no,yes,yes,remember
+yes,yes,yes,no,"yes, ""Design and implement a predictive model using Decision Tree algorithms to forecast customer churn within India's e-commerce sector.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes
+
+Rephrased Question: Can you explain why different datasets are used in building a machine learning model (training data vs validation set)? Why is it important to split your dataset into these two sets before starting the training and testing procedures?",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Analyze how adjustments to various hyperparameters during training can impact your model's performance on both validation and testing datasets, with a particular focus on overfitting scenarios that might arise when working with small agricultural data sets in India.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,"yes, ""Design an experimental framework for developing predictive models to identify water scarcity risks in drought-prone areas of India using machine learning techniques. Ensure your framework includes training, validation, and testing phases.""",no,yes,yes,create
+yes,yes,yes,no,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,no,NA,no,yes,yes,remember
+yes,yes,yes,no,yes,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain the role of each dataset—training, validation, and testing—in the lifecycle of a machine learning model? How do they contribute to the overall performance evaluation?""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Compare k-fold cross-validation to traditional train/test splits for machine learning models by evaluating their strengths and weaknesses. Provide specific examples from projects or research studies conducted in India where these methods were employed.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the core principles of Gradient Boosting and how it builds predictive models by sequentially combining multiple weak prediction models (typically decision trees) to create a strong predictive model.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,"yes, ""Explain and justify the importance of commonly used performance metrics such as Mean Absolute Error (MAE) for regression tasks or accuracy, precision, recall, F1 score, and Area Under the ROC Curve (AUC-ROC) for classification problems in evaluating Gradient Boosted Tree Models. Specifically, discuss their relevance to real-world Indian engineering scenarios.""",no,no,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,no,NA,no,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain how boosting works within Gradient Boosted Decision Tree (GBDT) models, emphasizing its iterative nature? Additionally, how do learning rate and number of estimators influence predictions in GBDT models? Explain their roles clearly.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Explain how GBDT models manage overfitting compared to other machine learning models like Random Forests. Compare and contrast the application of early stopping in GBDT models with traditional regression models. Discuss any specific benefits or drawbacks within contexts such as Indian markets.""",no,yes,no,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Design a study to apply the principles behind GBDT models on climate data from different regions across India, aiming at forecasting annual rainfall patterns. Propose how you could modify the GBDT algorithm for enhancing predictions in rural Indian agricultural practices considering region-specific data challenges such as missing values or limited historical records.""",no,yes,yes,create
+yes,yes,yes,no,"yes, ""Which type of Gradient Boosted Tree Models is best suited for handling categorical features with a large number of categories?""",no,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""How can Gradient Boosted Tree Models be used to predict patient outcomes based on demographic and health-related features in rural healthcare settings in India? Could incorporating domain knowledge and expert input into the modeling process enhance the prediction accuracy?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain how the concept of boosting is applied in Gradient Boosted Tree Models? Use an example relevant to predicting crop yields in India to illustrate your answer.""",no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,"yes, ""How would you use a Gradient Boosted Tree Model to predict customer churn for a telecom company operating in urban areas of India? What preprocessing steps might be necessary?""",no,yes,yes,create
+yes,NA,yes,more_or_less,"yes, ""Compare and contrast decision trees with Gradient Boosted Tree Models. How do these differences affect the model's performance when predicting air quality index (AQI) in major Indian cities?""",no,yes,yes,remember
+yes,NA,yes,no,yes,no,no,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the process you would follow to apply Gradient Boosted Tree Models for predicting the air quality index (AQI) of major Indian cities using historical data.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Examine how hyperparameter tuning influences the performance of Gradient Boosted Tree Models in predicting crop yields across various agro-climatic zones in India.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,no,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the roles of boosting and decision trees within a Gradient Boosted Tree Model.""",no,yes,yes,remember
+yes,yes,yes,no,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design an experiment using Gradient Boosted Trees (GBM) to analyze patient data for a hospital in India, focusing on predicting disease outbreaks or evaluating treatment effectiveness.""",no,no,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,"yes, ""Compare Linear Regression and Logistic Regression in terms of their suitability for continuous versus categorical dependent variables. Then, discuss how you would choose between Linear Regression and Multilayer Perceptron for an Indian healthcare system's application to predict the likelihood of a patient developing diabetes based on multiple risk factors. Evaluate their strengths and potential limitations in this context.""",NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,no,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,NA,yes,yes,create
+yes,yes,yes,no,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,no,NA,yes,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,yes,no,no,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,no,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,"yes, ""Assess the strengths and weaknesses of each model (Linear Regression, Logistic Regression, and Multilayer Perceptron) when applied to Indian datasets. Consider factors such as the linearity assumptions in LogR versus the non-linearity in MLP.""",no,yes,no,remember
+yes,yes,yes,more_or_less,yes,no,no,no,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""Can you briefly describe how mini-batch gradient descent differs from traditional stochastic gradient descent and explain the trade-offs involved in choosing between these two techniques for optimization?""",no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,"yes, ""In the context of predictive maintenance for Indian railway locomotives, describe a scenario where Stochastic Gradient Descent could be used to forecast potential equipment failures based on sensor data. How would you structure your dataset and what algorithmic steps would you take?""",no,yes,no,create
+yes,NA,yes,more_or_less,"yes, ""Discuss the role of learning rates in stochastic gradient descent and explain why it's crucial for Indian e-commerce companies optimizing their recommendation algorithms to balance between exploration (trying new items) and exploitation (recommending known user preferences).""",no,yes,no,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,no,yes,no,yes,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes
+
+Rephrased question: Can you explain how stochastic gradient descent works and why it is used instead of traditional methods like batch learning or mini-batch learning in large dataset scenarios common to industries, such as agriculture data analysis platforms popular across India?",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How can we use Stochastic Gradient Descent (SGD) to optimize a machine learning model that predicts crop yields based on factors such as soil moisture levels and rainfall patterns in India's agronomy sector?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Analyze and compare the components and working of stochastic gradient descent with respect to its convergence properties compared to batch-gradient-descent method in an application scenario like optimizing water distribution networks across Indian states.""",no,yes,no,create
+yes,yes,yes,more_or_less,"yes
+
+Rephrased question: ""Assess the effectiveness of Stochastic Gradient Descent (SGD) in managing large-scale datasets typically used by companies like Infosys, Wipro, or Tata Consultancy Services. Additionally, propose any potential improvements to SGD.""",no,yes,no,remember
+yes,no,yes,more_or_less,yes,NA,no,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you describe how mini-batches are used in Stochastic Gradient Descent?""",no,yes,yes,remember
+yes,no,yes,more_or_less,"yes, ""How would you apply Stochastic Gradient Descent (SGD) to train a model that recommends products to customers based on their past purchases and browsing history?""",no,no,no,create
+yes,yes,yes,no,yes,no,yes,no,create
+yes,yes,yes,no,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,no,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,NA,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,no,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you describe the main principles of Stochastic Gradient Descent?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can you use Stochastic Gradient Descent (SGD) to analyze a large dataset in the context of Indian agriculture or healthcare?""",no,yes,no,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Assess the advantages and disadvantages of applying Stochastic Gradient Descent (SGD) in real-world scenarios pertinent to India's tech industry.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,no,no,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Suppose you're using SGD to train a model for predicting equipment failure in a manufacturing plant in Chennai. The data shows a significant class imbalance – far more operational data than failure data. How might this imbalance impact the performance of SGD, and what steps could you take to mitigate this issue?""",NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,Create
+yes,yes,yes,more_or_less,"yes, ""List the main mathematical operations used in gradient calculation during backpropagation.""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how the choice of optimization method (e.g., Stochastic Gradient Descent) affects the convergence rate in backpropagation-based neural networks during training for predicting diabetes onset based on medical tests and patient characteristics.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,no,create
+yes,NA,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""What is backpropagation and how does it work in the context of neural networks?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain the difference between weight adjustments during forward propagation and backward propagation?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How would you use Backpropagation to address a real-world problem like predicting weather patterns based on historical data in India, considering the climatic variations across different regions of the country?""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,yes,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design an experiment using backpropagation to improve the accuracy of image recognition systems. Outline the methodology and anticipated outcomes.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how partial derivatives are used in Backpropagation during training.""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Design a simple neural network using Python and TensorFlow/Keras that employs backpropagation for regression on a dataset related to energy consumption in Indian cities (e.g., predicting energy demand based on temperature and population).""",no,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""Compare the advantages and disadvantages of Gradient Descent and Momentum optimization algorithms when used in conjunction with Backpropagation.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,NA,no,no,no,create
+yes,yes,yes,more_or_less,"yes, ""What are the key roles and importance of backpropagation in the context of artificial neural networks?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you describe how gradient descent and error minimization function within the context of backpropagation?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can a startup in Bengaluru utilize Backpropagation to train an AI model for predicting customer churn in their telecom services?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Analyze the impact of activation functions on the performance of Backpropagation in neural networks, particularly when dealing with noisy data in the Indian context.""",NA,yes,yes,create
+yes,no,yes,no,"yes, ""Compare and contrast the efficiency and effectiveness of Backpropagation with other training algorithms such as the Delta Rule or Hebbian Learning in predicting weather patterns during India's monsoon season.""",no,no,no,create
+yes,yes,yes,more_or_less,"yes, ""Design an experiment to train a neural network using Backpropagation for recognizing handwritten Indian languages such as Hindi or Tamil from digital images. Describe the steps and expected outcomes of your experiment.""",no,yes,no,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain how Backpropagation works within a multilayer perceptron network? Provide an example related to optimizing energy consumption in smart grids to illustrate your explanation.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How can backpropagation be implemented to enhance the accuracy of a predictive model for estimating crop yields in Indian agriculture?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Examine the steps of the Backpropagation algorithm and explain how each step helps reduce errors in an image recognition system designed to identify defects in textile manufacturing.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,no,create
+yes,no,yes,more_or_less,"yes, ""Design an experiment to compare the performance of a neural network trained with Backpropagation against one using another optimization algorithm for speech recognition in multiple Indian languages. Outline your methodology and expected outcomes.""",no,yes,no,create
+yes,yes,yes,more_or_less,NA,yes,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the fundamental concepts of Backpropagation and describe how it enables learning in neural networks.""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can backpropagation be used to optimize traffic flow predictions in a smart transportation system for an Indian city?""",no,yes,no,create
+yes,yes,yes,more_or_less,"yes, ""Compare Backpropagation with other optimization algorithms (such as Gradient Descent). Explain its components and discuss how they contribute to training neural networks.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how you would use the Backpropagation algorithm to adjust the weights of a neural network for predicting the load on a transformer in a power grid. Your goal is to minimize the difference between the predicted and actual loads.""",no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design a simple yet robust system using Object Detection APIs like YOLO or SSD to classify traffic signs in real-time within Indian cities. Explain your choice of architecture and how you would address the challenges specific to this application. Describe potential data preprocessing techniques suitable for this scenario.""",no,yes,yes,create
+yes,yes,yes,no,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how different layers in a Convolutional Neural Network contribute to image classification. Discuss their functions and interrelationships.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Critically evaluate both the advantages and disadvantages you might encounter when implementing Foundations of Computer Vision techniques for autonomous driving systems, considering Indian infrastructural conditions (such as varied road quality).""",NA,yes,no,create
+yes,no,yes,more_or_less,NA,no,no,no,create
+yes,yes,yes,more_or_less,"yes, ""What are the main differences between 2D and 3D computer vision, and how do these differences affect object recognition and tracking applications in industries such as automotive or aerospace in India?""",no,no,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,NA,yes,no,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,"yes, ""Design an experiment to train a CNN model for identifying different species of Indian birds from images captured by birdwatchers. Describe the data collection process, preprocessing steps, and evaluation metrics you would use.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How would you use CNN principles to develop an app for automating traffic signal detection in cities with dense traffic like Mumbai or Delhi? Describe the steps involved.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Assess the suitability of pre-trained models like VGG16 or ResNet50 for real-time face recognition in crowded environments such as Indian railway stations. Discuss the advantages and disadvantages, taking into account local constraints like computational resources and privacy concerns.""",no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you describe the process of edge detection in computer vision?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,no,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,no,yes,more_or_less,NA,no,no,no,Create
+yes,yes,yes,more_or_less,"yes, ""Design and describe a CNN model optimized for recognizing specific Indian traffic signs, including details about its architecture and training considerations.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain in your own words how Transfer Learning helps bridge the gap between pre-trained models and specific computer vision tasks, using a relevant Indian context as an example?""",no,yes,yes,create
+yes,yes,yes,no,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Explain and break down the components of a Transfer Learning model used in Computer Vision, such as pre-trained networks (e.g., VGG or ResNet) for feature extraction and fine-tuning layers. Discuss how these components work together to improve performance on specific tasks in India's diverse agricultural monitoring applications.""",no,yes,yes,Create
+yes,yes,yes,no,yes,no,yes,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the fundamental principles of Transfer Learning and why it is used to develop models using pre-trained networks for new tasks. Focus on its significance in computer vision applications across various industries globally, including those prevalent or emerging locally.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Evaluate both the potential benefits and possible challenges or drawbacks of applying transfer learning techniques to computer vision projects in India, where data availability may significantly differ from global standards.""",no,yes,yes,create
+yes,yes,yes,no,"yes, ""Compare and contrast different pre-trained models for computer vision tasks based on their architecture, training data relevance to your target application, and the computational resources required.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how 'domain adaptation' in transfer learning works for computer vision tasks such as object detection or segmentation in India's diverse environments. Domain adaptation involves adjusting a pre-trained model to adapt to new datasets and environments, which are common in Indian settings. This is achieved through techniques like data augmentation and domain-invariant feature learning.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: apply
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,"yes, ""Critically evaluate the strengths and limitations of using Transfer Learning in computer vision tasks related to the recognition of Indian monuments. Provide examples where it might succeed or fail.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,no,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,no,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can transfer learning be applied to classify images of crop diseases in Indian agriculture using computer vision techniques?""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Assess the advantages and disadvantages of applying Transfer Learning to Computer Vision tasks when dealing with issues like limited data availability or changes in data distribution within the context of Indian healthcare.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design an experiment or application that uses Transfer Learning in Computer Vision to address a real-world problem relevant to India, such as enhancing traffic management systems.""",no,yes,yes,create
+yes,no,yes,more_or_less,NA,no,no,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how a pre-trained CNN like VGG16 or ResNet is initially trained using a large dataset such as ImageNet. Why is this initial training step essential?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,yes,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""When applying Transfer Learning to classify satellite images of deforestation in India, what potential challenges might arise from variations in image quality, lighting conditions, and types of vegetation prevalent in different regions? How can these challenges be mitigated during the fine-tuning process?""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,no,yes,more_or_less,NA,no,no,no,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,no,yes,no,yes,no,yes,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How does object detection differ from other computer vision tasks such as edge detection?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,remember
+yes,yes,yes,no,"yes, ""How effective are image segmentation techniques for real-time traffic monitoring in a metropolitan city like Mumbai? What potential limitations might you encounter while deploying such systems?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes
+
+Rephrased Question: Design an experiment that employs object detection algorithms (such as YOLO or Faster R-CNN) to develop an automated surveillance footage analysis system aimed at reducing crime rates in urban Indian settings. Detail the steps and expected outcomes of your design.",no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,no,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,no,NA,no,yes,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can Image Segmentation and Object Detection be applied to enhance security measures during a prominent Indian festival or event?""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,no,no,yes,remember
+yes,yes,yes,no,"yes, ""Design a system that utilizes Image Segmentation and Object Detection techniques to improve the monitoring and efficiency of waste management systems in Indian cities.""",no,yes,yes,create
+yes,yes,yes,no,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,"yes, ""Design a project that employs Image Segmentation and Object Detection techniques to enhance waste management systems in smart cities throughout India.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,no,NA,NA,yes,yes,remember
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,Create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,no,"yes
+
+Question: Identify the primary components of data pre-processing for Natural Language Processing (NLP) tasks in the Indian context. Which common steps typically involve data cleaning, tokenization, stemming/lemmatization, and stop word removal in NLP for Indian languages?",no,yes,yes,remember
+yes,yes,yes,no,"yes, ""Explain how part-of-speech tagging and named entity recognition contribute to understanding and analyzing text data from diverse Indian languages during Data Pre-processing for NLP tasks.""",no,no,no,create
+yes,yes,yes,more_or_less,"yes, ""Describe how you would adapt a standard NLP pipeline for sentiment analysis on Hindi or Tamil texts, emphasizing critical components of data pre-processing tailored for these languages. What additional considerations might be needed when dealing with less-resourced Indian languages?""",no,yes,yes,remember
+yes,yes,yes,no,yes,no,yes,yes,Create
+yes,yes,yes,no,yes,no,yes,no,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""What specific steps are involved in data pre-processing for natural language processing tasks?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you outline the steps involved in cleaning text data during preprocessing? Why is each step crucial before applying any NLP models to this cleaned dataset, particularly within an Indian context where multiple languages and dialects may be present?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How would you preprocess a large corpus of social media posts from various regions in India to ensure consistency for further analysis? Please outline steps to remove noise while preserving important linguistic features unique to Indian English or regional vernacular languages.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""What are some potential challenges and pitfalls one might encounter when applying standard text pre-processing techniques to a multilingual dataset collected from various states across India? How would you assess the effectiveness of your chosen preprocessing methods in addressing these specific issues?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Assess how incorporating cultural nuances into pre-processing steps affects language model performance in tasks like named entity recognition and part-of-speech tagging when dealing with text corpora from India's diverse linguistic landscape.""",no,yes,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,no,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,yes,"yes, ""List and briefly describe three common techniques used for text normalization in Natural Language Processing (NLP) tasks.""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the process of stopword removal and discuss why specific words are considered stopwords in the context of NLP tasks related to Indian languages such as Hindi or Tamil.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how text normalization and stemming enhance the effectiveness of data pre-processing in NLP tasks.""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How would you apply stop-word removal and lemmatization in preparing social media text data from Indian languages like Hindi or Tamil for sentiment analysis?""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design a comprehensive data pre-processing pipeline for NLP tasks that can handle multilingual text from various Indian dialects, addressing challenges such as code-switching and informal language usage.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,no,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design a comprehensive data pre-processing pipeline for a machine learning model that predicts movie reviews in Bollywood. Outline each step and provide justifications for your choices.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""What is tokenization and why is it considered a crucial step in data pre-processing for NLP tasks?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the difference between stemming and lemmatization. How do these techniques alter the final representation of a word in text? (Related to reducing redundancy by simplifying data.)""",NA,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Consider a dataset of news articles about agricultural policy in India. How might the choice between different stemming algorithms (e.g., Porter, Snowball) impact the accuracy of a topic modeling task? What factors would you prioritize when making this decision?""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""What are the fundamental principles that form the core concept of the Bag of Words (BoW) approach in natural language processing?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you briefly describe how the Bag of Words (BoW) approach converts text into numerical vectors and explain its role in simplifying large volumes of text data for computational handling?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes
+
+Question: How would you use the Bag of Words Approach to categorize articles based on their primary topics for an Indian news media company? Provide a step-by-step practical application strategy.",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,"yes, ""What does the term 'Bag of Words Approach' refer to in the context of text analysis?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain how Word Embeddings differ from traditional Bag of Words models and why they might be preferred for certain tasks in natural language processing, particularly when working with Indian languages like Hindi or Tamil?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How would you use both the Bag of Words approach and word embeddings to create a sentiment analysis tool for evaluating customer reviews written in English on popular Indian e-commerce platforms like Flipkart or Snapdeal?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Break down the components involved in creating word embeddings for Indian languages using neural networks, taking into account unique linguistic features such as rich morphology and regional variations.""",no,yes,no,create
+yes,yes,yes,more_or_less,"yes, ""How does the Bag of Words approach fall short in understanding contextual information compared to Word Embeddings when dealing with idiomatic expressions from different regions (e.g., Kerala Malayalam vs Tamil) for machine learning applications targeting Indian markets?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design an experimental framework that uses both the Bag of Words and Word Embedding techniques to compare linguistic nuances in texts from North India versus South India. Consider regional dialects and socio-cultural factors influencing language use.""",no,yes,yes,Create
+yes,yes,yes,more_or_less,"yes, ""What is Text Preprocessing, and how does it relate to the Bag of Words Approach?"" could be rephrased as: ""Explain what Text Preprocessing is and discuss its connection to the Bag of Words Approach.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how you would use the Bag of Words approach and Word Embedding techniques to classify news articles in an Indian newspaper into categories such as politics, sports, and entertainment. Outline the steps involved in your approach.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Compare and contrast the components of the Bag of Words Approach and Word Embedding techniques. Identify which components are similar and which are different. How do these differences impact each technique's ability to handle contextual information?""",no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Explain the concepts behind the Bag of Words approach and Word Embedding techniques.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Compare the pros and cons of using the Bag of Boxes approach versus Word Embedding for processing multilingual text data from Indian languages in digital libraries or archives.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Design a research study that combines both Bag of Words and Word Embedding techniques to create a hybrid model aimed at enhancing machine translation accuracy between English and regional Indian languages such as Hindi or Tamil.""",no,yes,yes,Create
+yes,yes,yes,more_or_less,"yes, ""What are the definitions of the Bag of Words Approach and Word Embedding?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Compare and contrast the Bag of Words Approach with Word Embeddings, highlighting their key differences.""",yes,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How would you use the Bag of Words Approach and Word Embedding to improve product recommendations on an Indian e-commerce platform like Flipkart? (Focus: Real-world application)""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Compare the strengths and limitations of the Bag of Words Approach and Word Embeddings in the context of analyzing customer feedback for an Indian business. (Focus: Critical evaluation)""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,"yes, ""What is the 'Bag of Words' approach in text analysis? Please also explain its fundamental principle.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,NA,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes
+
+Rephrased Question: From a student's perspective in India learning about Transformers, compare and contrast two alternative attention mechanisms (such as Multi-Head Attention and Additive Attention) with Scaled Dot-Product Attention. Discuss their unique features, use cases, and potential advantages or disadvantages within the context of engineering applications in India.",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How would you evaluate the performance of an Attention Mechanism-based model using diverse text data from various sectors across India (e.g., automotive, aerospace, construction)? What key metrics or aspects should be monitored to ensure effective handling of multilingual inputs and context understanding in Indian engineering contexts?""",no,no,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain how the attention mechanism enhances the performance of transformers compared to other architectures like RNNs or LSTMs, particularly for tasks such as machine translation prevalent across Indian languages?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How would you modify a basic sequence-to-sequence model to include an Attention Mechanism to enhance its accuracy when translating between two Indian regional dialects with distinct syntactic structures and vocabulary differences?""",no,no,yes,create
+yes,yes,yes,more_or_less,yes,no,no,no,create
+yes,yes,yes,no,"yes, ""Assess both the strengths and limitations of using Attention Mechanisms when working with multilingual datasets common to Indian languages. Consider factors such as computational complexity versus accuracy gains in your evaluation.""",no,no,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,no,create
+yes,yes,yes,more_or_less,"yes, ""What is the main purpose of the self-attention mechanism in Transformers?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Analyze the component-wise implementation of the self-attention mechanism in a Transformer model. What are the advantages and disadvantages of using different attention mechanisms (e.g., additive, multiplicative) for computing attention weights?""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can the Attention Mechanism be utilized to enhance the performance of a chatbot designed for customer support on an Indian e-commerce platform?""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design a hypothetical project where you utilize the Attention Mechanism to enhance the accuracy of a speech-to-text system for regional Indian languages. Detail the steps you would take and identify potential challenges.""",no,yes,yes,create
+yes,yes,yes,no,NA,no,no,no,remember
+yes,yes,yes,more_or_less,NA,no,no,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,no,create
+yes,yes,yes,more_or_less,NA,no,no,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,no,create
+yes,NA,no,no,NA,no,yes,no,create
+yes,yes,yes,more_or_less,"yes, ""What are the main functions of the Attention Mechanism in Transformers?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Describe the main components of the Attention Mechanism and explain how they work together.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can the Attention Mechanism be applied to enhance machine translation for Indian languages such as Hindi or Bengali?""",no,yes,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Assess whether the use of attention mechanisms consistently improves model performance in resource-limited environments in India.""",no,yes,no,remember
+yes,no,yes,more_or_less,"yes, ""Design a new application leveraging attention mechanisms to address a particular challenge in the Indian IT industry, like customer service chatbots.""",no,no,no,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,NA,yes,yes,create
+yes,yes,yes,more_or_less,yes,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how the attention mechanism in Neural Machine Translation (NMT) models functions according to the Transformer architecture. How does it enhance translation accuracy compared to earlier NMT methods?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""If you were tasked with implementing an NMT system for real-world, multilingual news content translation from English to Tamil and Kannada (two major Indian languages), which key aspects of the Transformer model would you prioritize in your design? Justify your choices based on the linguistic characteristics of these languages.""",NA,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,no,"yes, ""Imagine you are conducting a comparative study on the performance of NMT using Transformers versus other state-of-the-art models (like Google's TensorLayer or OpenAI’s Transformer XL) for Indian language translation, focusing on both English to Hindi and Marathi translations. Which key metrics would you track to objectively evaluate their effectiveness? Explain why these metrics are crucial in the context of Indian languages.""",no,no,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,no,yes,more_or_less,NA,no,no,no,remember
+yes,yes,yes,more_or_less,"yes, ""Compare and contrast the Transformer architecture with traditional RNNs in terms of how they process sequences such as sentences or paragraphs.""",no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how Transformer architectures address the problem of vanishing gradients that occurs in recurrent neural networks when processing long sequences.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design a basic outline for an experiment to evaluate the efficiency gains of using Transformers over RNNs in translating Marathi text into English. Additionally, propose a novel application for neural machine translation that incorporates Transformer technology beyond traditional text-to-text scenarios; consider applications within the healthcare sector or any other relevant local field.""",no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,NA,yes,more_or_less,NA,no,no,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Examine the components of a Transformer-based neural machine translation model, such as the encoder-decoder architecture, self-attention mechanisms, and layer normalization techniques. How do these components enhance the overall performance of NMT?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Assess the advantages and disadvantages of employing pre-trained multilingual models such as BERT or RoBERTa for neural machine translation, especially when focusing on Indian languages. How do these models tackle the obstacles posed by low-resource languages?""",no,yes,yes,Create
+yes,NA,yes,more_or_less,"yes, ""Design an experiment to compare the performance of different NMT architectures (e.g., Transformer, RNN-based, and hybrid approaches) on a multilingual dataset containing texts from Hindi, English, and other Indian languages. How would you evaluate the results, and what insights can be gained from this comparison? This question assesses students' ability to design experiments and critically think about NMT architectures.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""What is the primary advantage of employing Transformers over Recurrent Neural Networks (RNNs) in the context of Neural Machine Translation?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you describe the functioning of the self-attention mechanism within Transformer models as applied to Neural Machine Translation?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain how positional encoding aids in preserving the word order in sequences when employing Transformers for Neural Machine Translation.""",no,yes,yes,remember
+yes,yes,yes,no,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""What are the primary components of the Transformer architecture employed in Neural Machine Translation?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How do self-attention mechanisms in Transformers improve translation quality compared to traditional sequence-to-sequence models?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How would you use a pre-trained Transformer model like BERT or GPT to translate regional Indian languages with limited training data? Describe the steps involved.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Examine how positional encoding in Transformers affects the handling of long-range dependencies in sentences from Indian languages like Hindi and Tamil.""",no,yes,no,remember
+yes,yes,yes,more_or_less,"yes, ""Assess the suitability of Transformer models for real-time translation in multilingual Indian settings such as customer service or healthcare. What potential challenges could arise?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you describe the fundamental concepts of Neural Machine Translation using Transformers?""",yes,yes,yes,remember
+yes,yes,yes,no,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Design an experiment or application that uses Neural Machine Translation with Transformers to tackle a specific translation challenge faced by Indian industries or digital platforms.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,no,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,NA,yes,more_or_less,NA,no,yes,no,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,no,"yes, ""Compare and contrast the strengths and weaknesses of using Encoder, Decoder, and Sequence-to-Sequence Transformers for real-time speech recognition in Indian languages.""",no,no,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the main components of a Sequence-to-Sequence Transformer model and describe how they interact with each other.""",no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,no,more_or_less,"yes, ""Explain the primary function of each technique—Pretraining, Finetuning, and Reinforcement Learning with Human Feedback—in the context of machine learning within Indian engineering settings. (Short Answer)""",no,yes,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Design an experiment or application scenario that combines all three techniques—Pretraining, Finetuning, and Reinforcement Learning with Human Feedback—to address a specific engineering challenge in India's rural infrastructure development. Explain how each component contributes to the overall solution.""",no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes
+
+Rephrased Question: Compare the differences between the Pretraining and Finetuning stages, emphasizing their applications in real-time language translation systems used by millions of Indians for daily communication or business purposes.",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How can Reinforcement Learning with Human Feedback outperform traditional methods in terms of learning efficiency when applied to domain-specific needs like local agricultural practices among Indian farmers? Please provide a critical evaluation.""",no,yes,no,create
+yes,yes,yes,no,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,no,yes,remember
+yes,no,yes,more_or_less,NA,no,no,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,no,no,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Assess the advantages and disadvantages of employing reinforcement learning with human feedback in creating a recommendation system designed for Indian users.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Design an experiment to evaluate the effectiveness of finetuning a pretrained model for sentiment analysis of Hindi movie reviews. Include the methodology, expected outcomes, and potential challenges you might encounter.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,no,create
+yes,yes,yes,more_or_less,yes,NA,yes,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,no,remember
+yes,yes,yes,more_or_less,yes,yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can you use RLHF to enhance a machine learning model for real-time translation between English and regional Indian languages such as Tamil or Hindi?""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,yes,no,no,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,yes,no,no,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,no,"yes, ""Identify and describe two key components of Chain of Thought Prompting. Illustrate your explanation with a scenario from industrial design or problem-solving in the Indian automotive sector.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How can Prompt Engineering be used to enhance communication within an engineering team collaborating on a project such as developing smart traffic management systems for a city in India? Explain your proposed approach step-by-step.""",NA,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,no,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,"yes, ""Propose a novel application of Prompt Engineering combined with Chain of Thought Prompting to enhance the predictive maintenance model for industrial machinery in large-scale manufacturing units across India. Describe the structure and anticipated benefits of this integrated system.""",no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How does Chain of Thought Prompting improve user interaction with an intelligent assistant when searching for academic resources online? Provide examples from Indian education portals if possible.""",no,no,yes,create
+yes,yes,yes,more_or_less,"yes, ""How can you apply prompt engineering techniques to design a chatbot that assists students with their homework on platforms like Vedantu or Chegg India?""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Assess whether Chain of Thought prompting is an effective method to improve customer support on Indian telecom websites like Jio or Airtel India's online chatbots. Suggest any necessary improvements you would consider.""",no,yes,no,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,"yes, ""Design an experiment to evaluate the effectiveness of various prompt engineering techniques in enhancing the user experience for students using UpGrad's learning management system.""",no,yes,yes,create
+yes,yes,yes,no,NA,no,yes,no,remember
+yes,NA,yes,more_or_less,NA,no,no,no,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Compare and contrast the traditional NLP-based Prompt Engineering techniques with those used in Chain of Thought Prompting. How do these differences impact the overall performance of AI models when dealing with multi-lingual texts from Indian languages?""",no,yes,yes,create
+yes,no,yes,more_or_less,"yes, ""Assess the effectiveness of a hypothetical Prompt Engineering strategy for enhancing the accuracy of AI-powered customer service chatbots in India, where users are increasingly interacting with these systems in Hindi and other regional languages. Support your evaluation with evidence from existing research.""",no,no,no,create
+yes,yes,yes,no,NA,no,yes,no,remember
+yes,no,yes,more_or_less,NA,no,no,no,remember
+yes,yes,yes,more_or_less,"yes, ""How can chain of thought prompting be utilized to improve the reasoning abilities of chatbots on Indian educational platforms?""",no,yes,yes,remember
+yes,yes,yes,no,"yes, ""How can you leverage prompt engineering and chain of thought prompting to enhance a weather prediction system for the Indian monsoon season?""",no,yes,yes,create
+yes,yes,yes,no,"yes, ""Explain the process of applying prompt engineering to enhance the efficiency of e-commerce recommendation systems in India, detailing each step involved.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,no,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,no,"yes, ""Explain how Prompt Engineering and Chain of Thought Prompting are used in natural language processing tasks, with a specific focus on their application to enhance the performance of AI chatbots in customer service scenarios common on Indian e-commerce platforms.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How can you use Prompt Engineering and Chain of Thought Prompting to improve a language translation model for regional Indian languages? For example, describe how you might implement these techniques in a project aimed at translating technical documents between Hindi and English effectively.""",NA,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,no,NA,no,no,yes,Create
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,NA,yes,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,no,no,remember
+yes,no,yes,more_or_less,yes,no,no,no,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain the key ideas behind Prompt Engineering and Chain of Thought Prompting? Focus on how they differ in their approach to eliciting responses from an LLM.""",yes,yes,yes,create
+yes,yes,yes,no,yes,no,yes,yes,create
+yes,no,yes,more_or_less,yes,no,yes,no,create
+yes,yes,yes,more_or_less,"yes, ""Compare and contrast the use of 'Zero-Shot Prompting' with 'Few-Shot Prompting' for optimizing the design of a water filtration system in a small village in Rajasthan. Which approach would you choose and why, considering the limited availability of data and the need for rapid prototyping? Justify your choice.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,"yes, ""Compare traditional NLP techniques with Transformer Architecture by highlighting their respective strengths and limitations when applied to large-scale Indian text datasets. Discuss the differences in language models' size requirements and computational efficiency.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,Create
+yes,NA,yes,no,NA,no,no,no,remember
+yes,yes,yes,more_or_less,NA,no,no,no,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,no,yes,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,yes,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,Create
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,no,no,Create
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Can you explain how Transformer architectures like BERT can be used for sentiment analysis of Hindi movie reviews?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can you leverage NLP to automate the translation of English news articles into regional Indian languages for a local newspaper?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Examine how the attention mechanism in Transformer architectures can enhance the performance of language models for tasks such as Indian language translation.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Assess the strengths and weaknesses of employing NLP for customer service chatbots designed to comprehend and reply in multiple Indian languages.""",no,yes,yes,Create
+yes,no,yes,no,NA,no,no,no,create
+yes,yes,yes,more_or_less,"yes, ""What are some common natural language processing (NLP) tasks that can be effectively addressed using transformer architectures?""",yes,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How do transformer architectures differ from earlier neural network models in their approach to handling sequence data for NLP tasks? Provide examples.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""How can you leverage transformer architectures to enhance a chatbot's natural language understanding capabilities for customer service at an Indian e-commerce company?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Explain how attention mechanisms in transformer models improve performance on specific NLP tasks such as machine translation and sentiment analysis.""",no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,yes,no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Design a prototype application that utilizes transformer architectures to facilitate real-time language translation between Hindi and English for use in Indian educational institutions. Outline your approach and key components of the system.""",no,yes,no,create
+yes,yes,yes,more_or_less,"yes, ""What are the key components of Natural Language Processing (NLP) tasks, and how do Transformer architectures enhance these tasks?""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""Explain the key differences between traditional NLP models (like RNNs) and Transformer architectures in how they handle sequential data.""",no,yes,yes,remember
+yes,yes,yes,more_or_less,"yes, ""How can you leverage Transformer architectures to enhance customer service chatbots in an Indian e-commerce company?""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Examine how Transformers manage long-range dependencies in NLP tasks and assess their effect on performance when applied to Indian languages with intricate sentence structures.""",no,yes,yes,create
+yes,yes,yes,more_or_less,"yes, ""Assess the performance of Transformer models in managing low-resource Indian languages, taking into account issues such as data scarcity and model adaptability.""",no,yes,yes,create
+yes,yes,yes,more_or_less,yes,no,yes,no,create
+yes,yes,yes,more_or_less,NA,no,no,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,remember
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,Bloom’s skill associated with the question: analyze
+yes,yes,yes,more_or_less,NA,NA,yes,yes,create
+yes,yes,yes,more_or_less,NA,no,yes,yes,create
