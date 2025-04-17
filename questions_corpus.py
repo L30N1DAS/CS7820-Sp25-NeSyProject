@@ -33,7 +33,7 @@ def large_questions():
                         taxonomy_level = large_row_human["Index"] % 6
                         if taxonomy_level == 0:
                             taxonomy_level = 6
-                        f.write(f"Taxonomy Level: {Taxonomy(taxonomy_level).name} ({taxonomy_level}) | {str(large_row["Questions"]).replace("\n", " ")}\n")
+                        f.write(f"Taxonomy Level: {Taxonomy(taxonomy_level).name} | {str(large_row["Questions"]).replace("\n", " ")}\n")
 
 def small_questions():
     xls = pd.ExcelFile("Questions_generated.xlsx")
@@ -49,7 +49,7 @@ def small_questions():
                 taxonomy_level = row["Index"] % 6
                 if taxonomy_level == 0:
                     taxonomy_level = 6
-                f.write(f"Taxonomy Level: {Taxonomy(taxonomy_level).name} ({taxonomy_level}) | {str(row["Questions"]).replace("\n", " ")}\n")
+                f.write(f"Taxonomy Level: {Taxonomy(taxonomy_level).name} | {str(row["Questions"]).replace("\n", " ")}\n")
 
 def main():
     small_questions()
